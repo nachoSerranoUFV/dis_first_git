@@ -1,0 +1,11 @@
+body {
+	background: green;
+}
+
+p {
+	color: white;
+	max-width: 10em;
+	margin: 0 auto;
+	text-align: center;
+}
+
